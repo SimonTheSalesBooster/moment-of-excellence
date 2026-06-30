@@ -169,6 +169,14 @@ Want the Monday session framework, the 8 Steps, and a human spotter to practice 
 
 ---
 
+## Further Reading
+
+Ten books on how peak-state coaching works in sports and business — from the original NLP source to modern sports science.
+
+→ **[BOOKS.md](./BOOKS.md)**
+
+---
+
 ## License
 
 [Apache-2.0](./LICENSE)
